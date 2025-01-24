@@ -1,5 +1,0 @@
-git init
-mkdir Practices
-mv cactus.html Practices/
-git add .
-git commit -m "Initial commit with Practices folder"
