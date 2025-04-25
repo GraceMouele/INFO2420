@@ -1,0 +1,115 @@
+@charset "utf-8";
+/* CSS Document */
+ body {
+        background-color: #D79F79;
+        color: #000000;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: medium;
+        
+    }
+
+header { 
+		width: 900px;
+		height: 200px;
+		background-color: #EB9D46;
+		text-align: center;
+		padding-top: 10px;
+		margin: auto;	
+	
+}
+    
+section{
+		width: 900px;
+		background-image: url("Images/2colback.jpg");
+		background-repeat: repeat-y;
+		overflow: hidden;
+		margin: auto;
+}
+
+nav {
+		float: left;
+		width: 250px;
+}
+   
+article {
+		float: left;
+		width: 650px;
+		text-align: center;
+}
+
+footer{
+		text-align: center;
+		width: 900px;
+		height: 70px;
+		background-color: #F1D391;
+		margin: auto;
+}
+.logoleft {
+		float: left;
+		padding-top: 0px;
+		padding-left: 15px;
+}
+
+nav a {
+		border: 6px inset #000000;
+		background-color: #FFAAC6;
+		line-height: 250%;
+		font-weight: bold;
+		font-size: 35px;
+		color: #000000;
+		text-decoration: none;
+		padding-left: 10px;
+		margin-left: 20px;
+		font-family: Vivaldi;
+			
+}
+
+nav a:hover{
+		color: #6E2D42;
+		border: 2px outset #C1A011;
+}
+
+h1{
+	color: #62401A;
+	text-align: center;
+	font-size: xx-large;
+}
+
+p{
+	color: #000000;
+} 
+
+.auto-style1{
+		float: left;
+		height: 150px;
+		padding: 0px 15px 10px 80px;
+		margin-left: 29px;
+}
+
+h2 {
+	color: #B05526;
+}
+h3{
+	color: #A08253
+}
+hr{
+	border-style: solid;
+	border-color: coral;
+	border-width: 1px;
+		
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
